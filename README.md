@@ -1,6 +1,8 @@
 # Health Insurance Project
 Project Overview: Health Insurance Charges Prediction.
 
+Created by Lucy Hill.
+
 The primary goal of this project is to develop a predictive model that estimates health insurance charges based on various factors, including demographics and the presence of existing medical condition. 
 By leveraging this information, we can use this so that insurance companies can set premiums more accurately and manage risk effectively.
 
